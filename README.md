@@ -23,3 +23,6 @@ include ('hooks/box/scripts.php');
 
 You can use the add_card function to add card in your proyect or can use html code like example in `index.html`
 
+## Screenshoots
+
+![Home Page](https://raw.githubusercontent.com/myappgini/box/master/screenshots/box.PNG)
