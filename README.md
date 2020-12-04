@@ -26,3 +26,6 @@ You can use the add_card function to add card in your proyect or can use html co
 ## Screenshoots
 
 ![HTML demo](screenshoots/boxs.png?raw=true)
+![HTML demo](screenshoots/helloWorld.png?raw=true)
+![HTML demo](screenshoots/addingBoxCardFromTablenameDV.js.png?raw=true)
+![HTML demo](screenshoots/adding_library_in_footer-extras.png?raw=true)
