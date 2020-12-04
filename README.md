@@ -25,4 +25,4 @@ You can use the add_card function to add card in your proyect or can use html co
 
 ## Screenshoots
 
-![HTML demo](/myappgini/box/main/screenshoots/boxs.png?raw=true)
+![HTML demo](screenshoots/boxs.png?raw=true)
