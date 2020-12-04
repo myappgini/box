@@ -11,13 +11,14 @@ in hooks folder write:
 ### download ZIP
 
 Expand zip file into box folder inside hooks folder
+![HTML demo](screenshoots/folder.png?raw=true)
 
-##Use
+## Use
+
 Add the next lines in `footer-extras.php`
 
 ~~~
 //* load library for box card in Appgini with bootstrap3
-
 include ('hooks/box/scripts.php');
 ~~~
 
